@@ -17,7 +17,7 @@ const developers: Developer[] = [
     description: 'Leading global property developer and provider of premium lifestyles.',
     logoUrl: 'https://logo.clearbit.com/emaar.com',
     established: '1997',
-    projects: [{ id: '1' } as any, { id: '2' } as any]
+    projects: []
   },
   {
     id: '2',
@@ -25,7 +25,7 @@ const developers: Developer[] = [
     description: 'World-leading developer of iconic, innovative and sustainable properties.',
     logoUrl: 'https://logo.clearbit.com/nakheel.com',
     established: '2000',
-    projects: [{ id: '3' } as any]
+    projects: []
   },
   {
     id: '3',
@@ -33,7 +33,7 @@ const developers: Developer[] = [
     description: 'Creating destinations that make a difference to people's lives.',
     logoUrl: 'https://logo.clearbit.com/dp.ae',
     established: '2004',
-    projects: [{ id: '4' } as any, { id: '5' } as any]
+    projects: []
   },
   {
     id: '4',
@@ -41,7 +41,7 @@ const developers: Developer[] = [
     description: 'Luxury real estate developer creating dream homes and communities.',
     logoUrl: 'https://logo.clearbit.com/damacproperties.com',
     established: '2002',
-    projects: [{ id: '6' } as any]
+    projects: []
   },
   {
     id: '5',
@@ -49,7 +49,7 @@ const developers: Developer[] = [
     description: 'Premium luxury property developer delivering unmatched quality.',
     logoUrl: 'https://logo.clearbit.com/sobha.com',
     established: '1976',
-    projects: [{ id: '7' } as any, { id: '8' } as any]
+    projects: []
   },
   {
     id: '6',
@@ -57,7 +57,7 @@ const developers: Developer[] = [
     description: 'Innovative real estate developer creating unique experiences.',
     logoUrl: 'https://logo.clearbit.com/meraas.com',
     established: '2007',
-    projects: [{ id: '9' } as any]
+    projects: []
   }
 ];
 

@@ -30,7 +30,7 @@ const developers: Developer[] = [
   {
     id: '3',
     name: 'Dubai Properties',
-    description: 'Creating destinations that make a difference to people's lives.',
+    description: 'Creating destinations that make a difference to people\'s lives.',
     logoUrl: 'https://logo.clearbit.com/dp.ae',
     established: '2004',
     projects: []
